@@ -1,7 +1,7 @@
 # Installation Script for Odoo Open Source
 Run a comprehensive and robust ERP System in the cloud for only $5/month
 
-1. Download the odoo-install.sh
+1. Download odoo-install.sh
 2. Send it to your remote server using scp \[source location] \[destination ip address]:~/
 3. Access the remote server using ssh \[user]@\[destination ip address]
 4. Modify the permissions of the file using chmod +x odoo-install.sh
