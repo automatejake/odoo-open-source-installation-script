@@ -1,0 +1,1 @@
+# odoo-open-source-installation-script
