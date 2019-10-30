@@ -51,6 +51,7 @@ pip3 install XlsxWriter
 pip3 install xlwt 
 pip3 install xlrd
 pip3 install polib
+pip3 install libsass==0.12.3
 
 echo -e "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInstalled Python Modules\nInstalled Python Modules\nInstalled Python Modules\n\n\n\n\n\n\n\n\n\n\n\n"
 
