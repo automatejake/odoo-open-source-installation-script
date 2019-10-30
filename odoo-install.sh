@@ -50,6 +50,7 @@ pip3 install Werkzeug
 pip3 install XlsxWriter 
 pip3 install xlwt 
 pip3 install xlrd
+pip3 install polib
 
 echo -e "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInstalled Python Modules\nInstalled Python Modules\nInstalled Python Modules\n\n\n\n\n\n\n\n\n\n\n\n"
 
@@ -93,7 +94,7 @@ echo -e "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSetup python packages\n\n\n\n\n\n\n\n\n\n
 
 
 cd /opt/odoo
-git clone https://www.github.com/odoo/odoo --depth 1 --branch 12.0 --single-branch
+git clone https://www.github.com/odoo/odoo --depth 1 --branch 13.0 --single-branch
 
 echo -e "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInstalled Odoo\nInstalled Odoo\nInstalled Odoo\n\n\n\n\n\n\n\n\n\n\n\n"
 
