@@ -46,7 +46,7 @@ pip3 install six
 pip3 install suds-jurko 
 pip3 install vatnumber 
 pip3 install vobject 
-pip3 install Werkzeug 
+pip3 install Werkzeug==0.16.1
 pip3 install XlsxWriter 
 pip3 install xlwt 
 pip3 install xlrd
